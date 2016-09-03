@@ -1,0 +1,95 @@
+[
+	{
+		"first": "Farnoush",
+		"last": "Banaei-Kashani",
+		"position": "Faculty",
+		"research": [
+			"Ordered Data M & M",
+			"Graph Data M & M",
+			"Data Stores",
+			"Spatial Networks",
+			"Point Cloud Data M",
+			"Educational Data Mining",
+			"Modern Hardware", 
+			"GPU",
+			"SSD"
+		],
+		"projects": [
+			"COPD",
+			"RadOn",
+			"mSleepWatcher",
+			"Transportation",
+			"Data-driven Visualization"
+		]
+	},
+	{
+		"first": "Shahab",
+		"last": "Helmi",
+		"position": "PhD Student",
+		"research": ["Ordered Data M & M"],
+		"projects": ["COPD", "RadOn"]
+	},
+	{
+		"first": "Zohreh",
+		"last": "Raghebi",
+		"position": "PhD Student",
+		"research": ["Graph Data M & M"],
+		"projects": ["mSleepWatcher"]
+	},	
+	{
+		"first": "Omar",
+		"last": "Alqahtani",
+		"position": "PhD Student",
+		"research": ["Data Stores"],
+		"projects": ["Transportation"]
+	},	
+	{
+		"first": "Robert",
+		"last": "Fitzgerald",
+		"position": "PhD Student",
+		"research": ["Spatial Networks"],
+		"projects": ["Transportation"]
+	},	
+	{
+		"first": "Javier",
+		"last": "Pastorino",
+		"position": "PhD Student",
+		"research": ["Point Cloud Data M"],
+		"projects": ["Data-driven Visualization"]
+	},	
+	{
+		"first": "Fransisco",
+		"last": "Perez",
+		"position": "PhD Student",
+		"research": ["Educational Data Mining"],
+		"projects": []
+	},	
+	{
+		"first": "Ashkan",
+		"last": "Malekloo",
+		"position": "PhD Student",
+		"research": ["Modern Hardware", "GPU"],
+		"projects": []
+	},	
+	{
+		"first": "Arnaud",
+		"last": "Konan",
+		"position": "Masters Student",
+		"research": [],
+		"projects": []
+	},	
+	{
+		"first": "William M.",
+		"last": "Lees",
+		"position": "Masters Student",
+		"research": ["Ordered Data M & M"],
+		"projects": []
+	},	
+	{
+		"first": "Nafiseh",
+		"last": "Mahmoudi",
+		"position": "Masters Student",
+		"research": ["Modern Hardware", "SSD"],
+		"projects": []
+	}
+]
