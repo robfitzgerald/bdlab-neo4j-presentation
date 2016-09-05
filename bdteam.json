@@ -14,7 +14,7 @@
 			"GPU",
 			"SSD"
 		],
-		"projects": [
+		"project": [
 			"COPD",
 			"RadOn",
 			"mSleepWatcher",
@@ -27,69 +27,55 @@
 		"last": "Helmi",
 		"position": "PhD Student",
 		"research": ["Ordered Data M & M"],
-		"projects": ["COPD", "RadOn"]
+		"project": ["COPD", "RadOn"]
 	},
 	{
 		"first": "Zohreh",
 		"last": "Raghebi",
 		"position": "PhD Student",
 		"research": ["Graph Data M & M"],
-		"projects": ["mSleepWatcher"]
+		"project": ["mSleepWatcher"]
 	},	
 	{
 		"first": "Omar",
 		"last": "Alqahtani",
 		"position": "PhD Student",
 		"research": ["Data Stores"],
-		"projects": ["Transportation"]
+		"project": ["Transportation"]
 	},	
 	{
 		"first": "Robert",
 		"last": "Fitzgerald",
 		"position": "PhD Student",
 		"research": ["Spatial Networks"],
-		"projects": ["Transportation"]
+		"project": ["Transportation"]
 	},	
 	{
 		"first": "Javier",
 		"last": "Pastorino",
 		"position": "PhD Student",
 		"research": ["Point Cloud Data M"],
-		"projects": ["Data-driven Visualization"]
+		"project": ["Data-driven Visualization"]
 	},	
 	{
 		"first": "Fransisco",
 		"last": "Perez",
 		"position": "PhD Student",
 		"research": ["Educational Data Mining"],
-		"projects": []
-	},	
-	{
-		"first": "Ashkan",
-		"last": "Malekloo",
-		"position": "PhD Student",
-		"research": ["Modern Hardware", "GPU"],
-		"projects": []
-	},	
-	{
-		"first": "Arnaud",
-		"last": "Konan",
-		"position": "Masters Student",
-		"research": [],
-		"projects": []
-	},	
+		"project": []
+	},
 	{
 		"first": "William M.",
 		"last": "Lees",
 		"position": "Masters Student",
 		"research": ["Ordered Data M & M"],
-		"projects": []
+		"project": []
 	},	
 	{
 		"first": "Nafiseh",
 		"last": "Mahmoudi",
 		"position": "Masters Student",
 		"research": ["Modern Hardware", "SSD"],
-		"projects": []
+		"project": []
 	}
 ]

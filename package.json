@@ -1,0 +1,19 @@
+{
+  "name": "neo4j-presentation",
+  "version": "1.0.0",
+  "description": "presentation of neo4j for UCD BDLab Seminars Tutorial",
+  "main": "demo-neo4j.js",
+  "dependencies": {
+    "async": "^2.0.1",
+    "neo4j-driver": "^1.0.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rob Fitzgerald",
+  "license": "ISC"
+}
