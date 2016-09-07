@@ -15,3 +15,8 @@ you are ready! :-)
 ## optional
 
 I will be using a node.js script to speed up creating a test database. If you want to be able to run that script, then make sure to have [Node.js](https://nodejs.org/) v4.0 or greater installed. If it is, then put yourself in the bdlab-neo4j-presentation directory and run `npm install` to download the package dependencies.
+
+## additional resources
+
+[Neo4j Cypher Refcard 3.0.4](https://neo4j.com/docs/cypher-refcard/current/)
+[Neo4j Documentation](https://neo4j.com/docs/developer-manual/current/)
