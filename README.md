@@ -19,4 +19,5 @@ I will be using a node.js script to speed up creating a test database. If you wa
 ## additional resources
 
 [Neo4j Cypher Refcard 3.0.4](https://neo4j.com/docs/cypher-refcard/current/)
+
 [Neo4j Documentation](https://neo4j.com/docs/developer-manual/current/)
