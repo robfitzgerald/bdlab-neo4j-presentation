@@ -8,7 +8,7 @@ click "start"
 
 when it is running, check [http://localhost:7474](http://localhost:7474) to confirm your local database is running
 
-it will ask you to enter the default login, user: "neo4j", password: "neo4j", and it will expect you to give a new password.
+it will ask you to enter the default login, user: "neo4j", password: "neo4j", and it will expect you to give a new password. the node utility expects "bdlab" for a password.
 
 you are ready! :-)
 
